@@ -1,0 +1,49 @@
+a {
+    color: #fd7d00;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+a:hover, a:active, a:focus {
+    color: #fd7d00;
+    outline: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fd7d00;
+    font-family: "Montserrat", Arial, sans-serif;
+    font-weight: 700;
+    margin: 0 0 30px 0;
+}
+
+i{
+    font-size: 80%;
+}
+
+.fh5co-feature .fh5co-icon i {
+    color: #e1007c;
+    font-size: 70px;
+}
+
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #e1007c;
+}
+
+#fh5co-aside #fh5co-main-menu ul li a {
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 300;
+    position: relative;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    padding: 10px 10px;
+    letter-spacing: .2em;
+    font-family: "Montserrat", Arial, sans-serif;
+}
